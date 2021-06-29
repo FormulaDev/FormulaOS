@@ -1,5 +1,5 @@
 # FormulaOS
-Formulas is a free operating system that can start from a USB flash drive.
+FormulaOS is a free operating system that can start from a USB flash drive.
 The development has been underway since June 7, 2021.
 
 The systemsettings.asm file contains the system settings, namely in the sequence:
